@@ -1,0 +1,74 @@
+body{
+	font-family: 'Manrope', sans-serif;
+}
+
+*{
+	margin: 0;
+  	padding: 0;
+  	box-sizing: border-box;
+  	font-family: 'Open Sans';
+}
+
+#bg-image{
+	
+	background-image: url(https://img.freepik.com/free-photo/view-adorable-looking-kitten_23-2150886382.jpg?size=626&ext=jpg&ga=GA1.1.985321308.1686064470&semt=sph);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding: 2rem 0rem 3rem 5rem;
+	color: white;
+	font-size:  ;
+}
+
+.card-text{
+	text-align: justify;
+}
+
+.card-body h5{
+	color:  #B891E3 ;
+	font-weight: bold;
+}
+
+#projects h2{
+	padding-bottom: 30px;
+}
+
+#projects_group{
+	padding-bottom: 40px !important;
+}
+
+.title{
+	font-weight: bold;
+	font-size: 40px;
+}
+
+
+#footer{
+	background-color:#B891E3;
+}
+
+.navbar{
+	background-color:#B891E3;
+}
+
+
+.profile h2{
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+.profile h1{
+	font-size: 80px;
+	font-weight: 700;
+}
+
+.btn{
+	background-color:#B891E3;
+	margin:  20px 0px;
+	font-weight: 700;
+	text-transform: uppercase;
+}
+
+.btn:hover{
+	background-color: #6c757d;
+}
